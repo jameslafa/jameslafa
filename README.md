@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="img/avatar.svg" heigth="100px" width="100px">
+    <img src="https://raw.githubusercontent.com/jameslafa/jameslafa/master/img/avatar.svg" heigth="100px" width="100px" alt="Back logo">
 </p>
 
-![Back Banner](img/cover.svg)
+![Back Banner](https://raw.githubusercontent.com/jameslafa/jameslafa/master/img/cover.svg)
 
 
 Hi there 👋,
